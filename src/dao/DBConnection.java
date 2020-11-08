@@ -8,7 +8,7 @@ public class DBConnection {
 	
 	private final static String URL = "jdbc:mysql://localhost:3306/covid_admin";
 	private final static String USERNAME = "root";
-	private final static String PASSWORD = "password"; //put your own password here
+	private final static String PASSWORD = "computer"; //put your own password here
 	//singleton pattern - only 1 connection allowed
 	private static Connection connection;
 	private static DBConnection instance;

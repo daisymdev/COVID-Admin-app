@@ -172,7 +172,7 @@ public class Menu {
 	private void displaySupplies() throws SQLException {
 		List<Class_Supplies> supplies = classSuppliesDao.getSupplies();
 		for (Class_Supplies supply : supplies) {
-			System.out.println(supply.getSupplies_id() + ": " + supply.getSupply_name() + supply.getQuantity());
+			System.out.println(supply.getSupplies_id() + ": " + supply.getSupply_name() + " " + supply.getQuantity());
 		}
 	}
 

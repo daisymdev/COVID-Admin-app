@@ -13,9 +13,9 @@ import entity.Class_Supplies;
 	
  	private Connection conn;
  	private final String GET_SUPPLIES_QUERY = "SELECT * FROM class_supplies";
- 	private final String ADD_NEW_SUPPLIES_QUERY = "INSERT INTO class_supplies(name, quantity) VALUES(?, ?) WHERE class_id_fk = ?";
- 	private final String MODIFY_SUPPLIES_BY_ID_QUERY = "UPDATE class_supplies SET name = ? WHERE id = ?";
- 	private final String DELETE_SUPPLIES_BY_ID_QUERY = "DELETE FROM class_supplies WHERE id = ?";
+ 	private final String ADD_NEW_SUPPLIES_QUERY = "INSERT INTO class_supplies(supply_name, amount, class_id_fk) VALUES(?, ?, ?)";
+ 	private final String MODIFY_SUPPLIES_BY_ID_QUERY = "UPDATE class_supplies SET supply_name = ?, amount = ? WHERE class_id_fk = ?";
+ 	private final String DELETE_SUPPLIES_BY_ID_QUERY = "DELETE FROM class_supplies WHERE class_id_fk = ?";
  	
  	public ClassSuppliesDao() {
  		conn = DBConnection.getConnection();	
