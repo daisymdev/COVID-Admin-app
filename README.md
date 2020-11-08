@@ -5,7 +5,7 @@ The purpose of this CRUD app is for school administrators/teachers that need to 
 The application takes 3 different tables featuring classrooms, students, and supplies in each classroom. Users can display entities, add new enttities, modify entities, and delete entities.
 
 ## User Interface
-The menu in the covid app has 13 options. There are 3 main categories: Classrooms, Students and Supplies. Users are able to select an option to display, add, modify or delete from each category.
+The menu has 13 options with 3 main categories: Classrooms, Students and Supplies. Users are able to select an option to display, add, modify or delete from each category.
 
 ![Capture5](https://user-images.githubusercontent.com/69730667/98485119-3bcb6900-21d1-11eb-9e25-b6c05f9c329e.PNG)
 
