@@ -168,7 +168,7 @@ public class Menu {
 		studentDao.deleteStudentByID(id);
     }
 	
-	//###########################STUDENT FUNCTIONS###############	
+	//###########################SUPPLIES FUNCTIONS###############	
 	private void displaySupplies() throws SQLException {
 		List<Class_Supplies> supplies = classSuppliesDao.getSupplies();
 		for (Class_Supplies supply : supplies) {
