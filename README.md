@@ -55,21 +55,29 @@ Users are able to select, display, add, modify or delete students.
 ## Class Supplies
 * Option 10 Display Supplies
   * Displays all class supplies
- ![Capture](https://user-images.githubusercontent.com/53660950/98459533-ece1ed00-2158-11eb-9bdd-367db5c4a2bf.PNG)
+  
+  
+  ![Capture](https://user-images.githubusercontent.com/53660950/98459533-ece1ed00-2158-11eb-9bdd-367db5c4a2bf.PNG)
  
 * Option 11 Add Supplies
   * Enter supply name
   * Enter quantity
   * Enter class id
- ![Capture1](https://user-images.githubusercontent.com/53660950/98459666-2d8e3600-215a-11eb-97a6-bb028b9d5e71.PNG)
+  
+  
+  ![Capture1](https://user-images.githubusercontent.com/53660950/98459666-2d8e3600-215a-11eb-97a6-bb028b9d5e71.PNG)
 
 * Option 12 Modify Supplies
   * Modify supply ID
   * Modify supply name
   * Modify quantity
   * Modify class id
- ![Capture2](https://user-images.githubusercontent.com/53660950/98459726-ac836e80-215a-11eb-9687-0aa1ae5c3722.PNG)
+  
+  
+  ![Capture2](https://user-images.githubusercontent.com/53660950/98459726-ac836e80-215a-11eb-9687-0aa1ae5c3722.PNG)
 
 * Option 13 Delete Supplies
   * Enter ID to delete supply
- ![Capture3](https://user-images.githubusercontent.com/53660950/98459924-b017f500-215c-11eb-8f81-09ab1e16ace7.PNG)
+  
+  
+  ![Capture3](https://user-images.githubusercontent.com/53660950/98459924-b017f500-215c-11eb-8f81-09ab1e16ace7.PNG)
