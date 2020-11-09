@@ -53,3 +53,19 @@ Users are able to select, display, add, modify or delete students.
 ![Capture4](https://user-images.githubusercontent.com/69730667/98485082-0c1c6100-21d1-11eb-9128-cf49af1c50d3.PNG)
 
 ## Class Supplies
+* Option 10 Display Supplies
+ * Displays all class supplies
+ 
+* Option 11 Add Supplies
+ * Enter supply name
+ * Enter quantity
+ * Enter class id
+
+* Option 12 Modify Supplies
+ * Modify supply ID
+ * Modify supply name
+ * Modify quantity
+ * Modify class id
+
+* Option 13 Delete Supplies
+ * Enter ID to delete supply
