@@ -55,6 +55,7 @@ Users are able to select, display, add, modify or delete students.
 ## Class Supplies
 * Option 10 Display Supplies
   * Displays all class supplies
+ !
  
 * Option 11 Add Supplies
   * Enter supply name
