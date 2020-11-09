@@ -54,18 +54,18 @@ Users are able to select, display, add, modify or delete students.
 
 ## Class Supplies
 * Option 10 Display Supplies
- * Displays all class supplies
+  * Displays all class supplies
  
 * Option 11 Add Supplies
- * Enter supply name
- * Enter quantity
- * Enter class id
+  * Enter supply name
+  * Enter quantity
+  * Enter class id
 
 * Option 12 Modify Supplies
- * Modify supply ID
- * Modify supply name
- * Modify quantity
- * Modify class id
+  * Modify supply ID
+  * Modify supply name
+  * Modify quantity
+  * Modify class id
 
 * Option 13 Delete Supplies
- * Enter ID to delete supply
+  * Enter ID to delete supply
