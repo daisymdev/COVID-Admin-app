@@ -10,6 +10,17 @@ The menu has 13 options with 3 main categories: Classrooms, Students and Supplie
 ![Capture5](https://user-images.githubusercontent.com/69730667/98485119-3bcb6900-21d1-11eb-9e25-b6c05f9c329e.PNG)
 
 ## Classrooms
+Users are able to select, display, add, modify or delete classrooms. 
+* Option 1 - Display Classrooms
+ ***displays all classrooms in table***
+* Option 2 - Display Classroom
+ ***displays a single classroom by class id***
+* Option 3 - Add Classroom
+ ***add a new class***
+* Option 4 - Modify Classroom
+ ***update any classroom details by class id***
+* Option 5 - Delete Classroom
+ ***delete a single classroom by class id***
 
 ## Students
 Users are able to select, display, add, modify or delete students. 
